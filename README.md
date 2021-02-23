@@ -1,1 +1,4 @@
-Egyszerű PHP script szerver és port megadásával ellenőrzés, hogy az adott IP címen és porton fut e valami, vagy nem.
+CHANGELOG
+- Bootstrap kinézet (bootswatch.com)
+- IP és PORT megadásával ellenőrzés, hogy az adott szerver fut e
+- V1.0 verzió
